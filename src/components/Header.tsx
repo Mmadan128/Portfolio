@@ -36,7 +36,7 @@ const Header: React.FC = () => {
             className="flex items-center gap-2 cursor-pointer"
           >
             <PolarBear className="h-8 w-8 text-white" />
-            <span className="text-white font-heading font-bold text-xl">John Doe</span>
+            <span className="text-white font-heading font-bold text-xl">Mohit Madan</span>
           </Link>
           
           {/* Desktop Navigation */}

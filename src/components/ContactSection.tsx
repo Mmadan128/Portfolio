@@ -88,7 +88,7 @@ const ContactSection: React.FC = () => {
                       href="mailto:john.doe@example.com" 
                       className="text-gray-600 hover:text-primary-600 transition-colors"
                     >
-                      john.doe@example.com
+                      mohitmadan128@gmail.com
                     </a>
                   </div>
                 </div>
@@ -133,7 +133,7 @@ const ContactSection: React.FC = () => {
                     </svg>
                   </a>
                   <a 
-                    href="https://linkedin.com" 
+                    href="https://www.linkedin.com/in/mohit-madan-b8447a313/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="bg-white hover:bg-primary-600 hover:text-white text-primary-600 p-3 rounded-full transition-colors"
@@ -143,7 +143,7 @@ const ContactSection: React.FC = () => {
                     </svg>
                   </a>
                   <a 
-                    href="https://twitter.com" 
+                    href="https://x.com/mohitmadan127" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="bg-white hover:bg-primary-600 hover:text-white text-primary-600 p-3 rounded-full transition-colors"

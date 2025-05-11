@@ -49,7 +49,7 @@ const AboutSection: React.FC = () => {
             transition={{ duration: 0.5 }}
           >
             <h3 className="text-2xl font-heading font-semibold text-primary-700 mb-6">
-              Hello, I'm John Doe
+              Hello, I'm Mohit Madan
             </h3>
             <p className="text-gray-700 mb-6 leading-relaxed">
               I'm a passionate web developer based in New York with over 5 years of experience creating beautiful, 

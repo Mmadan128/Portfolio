@@ -35,7 +35,7 @@ const HeroSection: React.FC = () => {
             </span>
             <h1 className="font-heading font-bold text-4xl sm:text-5xl md:text-6xl text-white leading-tight mb-6">
               <span className="block">Hello, I'm</span>
-              <span className="text-primary-200">John Doe</span>
+              <span className="text-primary-200">Mohit Madan</span>
             </h1>
             <p className="text-primary-100 text-lg md:text-xl mb-8 max-w-lg mx-auto lg:mx-0">
               I build exceptional digital experiences that are beautiful,
@@ -86,7 +86,7 @@ const HeroSection: React.FC = () => {
               <div className="absolute inset-0 flex items-center justify-center">
                 <img
                   src="https://images.pexels.com/photos/5378700/pexels-photo-5378700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                  alt="John Doe"
+                  alt="Mohit Madan"
                   className="w-48 h-48 sm:w-64 sm:h-64 rounded-full object-cover border-4 border-white shadow-lg"
                 />
               </div>
